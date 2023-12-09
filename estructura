@@ -1,0 +1,54 @@
+HerramientasHacker
+│
+├── HerramientasEscaneo
+│   ├── Herramienta1
+│   │   ├── CódigoFuente
+│   │   ├── Documentación
+│   │   ├── Ejemplos
+│   │   └── README.md
+│   ├── Herramienta2
+│   │   ├── CódigoFuente
+│   │   ├── Documentación
+│   │   ├── Ejemplos
+│   │   └── README.md
+│   └── ...
+│
+├── ScriptsPenetracion
+│   ├── Script1
+│   │   ├── CódigoFuente
+│   │   ├── Documentación
+│   │   ├── Ejemplos
+│   │   └── README.md
+│   ├── Script2
+│   │   ├── CódigoFuente
+│   │   ├── Documentación
+│   │   ├── Ejemplos
+│   │   └── README.md
+│   └── ...
+│
+├── RecursosEducativos
+│   ├── Etica
+│   │   ├── Artículos
+│   │   ├── Libros
+│   │   └── README.md
+│   ├── SeguridadInformatica
+│   │   ├── CursosOnline
+│   │   ├── Videos
+│   │   └── README.md
+│   └── ...
+│
+├── Documentacion
+│   ├── Herramienta1
+│   │   ├── GuiaUsuario.md
+│   │   ├── GuiaInstalacion.md
+│   │   └── README.md
+│   ├── Herramienta2
+│   │   ├── GuiaUsuario.md
+│   │   ├── GuiaInstalacion.md
+│   │   └── README.md
+│   └── ...
+│
+├── README.md
+├── LICENSE
+├── CODE_OF_CONDUCT.md
+└── .gitignore
